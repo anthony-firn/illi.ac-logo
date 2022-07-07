@@ -3,51 +3,18 @@
    version="1.1"
    id="logo-slogan-icon-left-svg"
    class="logo-slogan-icon-left"
-   viewBox="0 0 300 300"
+   viewBox="0 0 234 82"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="logo-defs" />
-  <rect
-     id="background"
-     class="background-square"
-     fill="#81b989"
-     x="-1"
-     y="-1"
-     width="300"
-     height="300" />
   <g
-     id="logo-slogan-icon-left"
-     transform="translate(32,100)">
-    <g
-       id="logo-slogan"
-       transform="translate(81,67)"
-       fill="#ffffff">
-      <g
-         id="logo">
-        <text
-           id="logo-text"
-           style="font-size:69px;
-           font-family:'Istok Web'">illi.ac</text>
-      </g>
-      <g
-         id="slogan"
-         transform="translate(0,10)">
-        <text
-           id="slogan-text"
-           xml:space="preserve"
-           style="font-size:8px;
-           font-family:Questrial">O  P  E  N  I  N  G     C  O  M  P  U  T  A  T  I  O  N</text>
-      </g>
-    </g>
-    <g
-       id="icon"
-       transform="matrix(2.4,0,0,2.4,0,7)"
-       stroke="none"
-       fill="#01384a">
-      <path
-         id="icon-path"
-         d="M 17.572,23.933 21.678,31.028 32,13.189 H 23.019 V 7.582 L 11.51,0.972 0,7.582 v 13.222 l 11.51,6.611 z m 10.96,-8.744 -6.855,11.846 -6.855,-11.846 z" />
-    </g>
+     id="logo"
+     transform="translate(-7.32,79.6)"
+     fill="#000000">
+    <text
+       id="logo-text"
+       style="font-size:110px;
+       font-family:'Istok Web'">illi.ac</text>
   </g>
 </svg>
