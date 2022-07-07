@@ -12,55 +12,21 @@
     width="300" height="300"/>
   <g id="logo-slogan-icon-left"
     transform="matrix(1,0,0,1,40,105)">
-    <g id="logo-slogan"
-      fill="#ffffff"
-      transform="matrix(1,0,0,1,81,0)">
-      <g id="logo"
-        transform="matrix(5,0,0,5,0,0)">
-        <text xml:space="preserve"
-          id="logo-text"
-          x="0" y="13.35"
-          style="font-style:normal;
-          font-weight:normal;
-          font-size:14px;
-          line-height:1.25;
-          font-family:'Istok Web';
-          fill-opacity:1;
-          stroke:none;
-          -inkscape-font-specification:'Istok Web, Normal';
-          font-stretch:normal;
-          font-variant:normal;
-          font-variant-ligatures:normal;
-          font-variant-caps:normal;
-          font-variant-numeric:normal;
-          font-variant-east-asian:normal"
-          >illi.ac</text>
+    <g id="logo-slogan" transform="matrix(1,0,0,1,81,67)"
+      fill="#ffffff">
+      <g id="logo" transform="matrix(4.375,0,0,4.375,0,0)">
+        <text id="logo-text"
+          style="font-family:'Istok Web'">illi.ac</text>
       </g>
-      <g id="slogan"
-        transform="matrix(0.5,0,0,0.5,7,70)">
+      <g id="slogan" transform="matrix(0.465,0,0,0.465,7,9)">
         <text id="slogan-text"
           xml:space="preserve"
-          x="0" y="12"
-          style="font-style:normal;
-          font-variant:normal;
-          font-weight:normal;
-          font-stretch:normal;
-          font-size:14.9px;
-          line-height:1.25;
-          font-family:Questrial;
-          -inkscape-font-specification:'Questrial, Normal';
-          font-variant-ligatures:normal;
-          font-variant-caps:normal;
-          font-variant-numeric:normal;
-          font-variant-east-asian:normal;
-          fill-opacity:1;stroke:none"
-          >O  P  E  N  I  N  G     C  O  M  P  U  T  A  T  I  O  N</text>
+          style="font-family:Questrial">O  P  E  N  I  N  G     C  O  M  P  U  T  A  T  I  O  N</text>
       </g>
     </g>
-    <g id="icon"
+    <g id="icon" transform="matrix(2.4,0,0,2.4,0,7)"
       stroke="none"
-      fill="#01384a"
-      transform="matrix(2.4,0,0,2.4,0,7)">
+      fill="#01384a">
       <path id="icon-path"
         d="M 17.572,23.933 21.678,31.028 32,13.189 H 23.019 V 7.582 L 11.51,0.972 0,7.582 v 13.222 l 11.51,6.611 z m 10.96,-8.744 -6.855,11.846 -6.855,-11.846 z"/>
     </g>
