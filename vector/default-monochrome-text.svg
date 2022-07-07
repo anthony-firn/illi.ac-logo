@@ -3,22 +3,14 @@
    version="1.1"
    id="logo-slogan-icon-left-svg"
    class="logo-slogan-icon-left"
-   viewBox="0 0 300 300"
+   viewBox="0 0 342 90"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="logo-defs" />
-  <rect
-     id="background"
-     class="background-square"
-     fill="#81b989"
-     x="-1"
-     y="-1"
-     width="300"
-     height="300" />
   <g
      id="logo-slogan-icon-left"
-     transform="translate(32,100)">
+     transform="translate(53,0)">
     <g
        id="logo-slogan"
        transform="translate(81,67)"
