@@ -1,4 +1,4 @@
-![Default illi.ac Logo](https://raw.githubusercontent.com/anthony4tner/illi.ac-logo/main/vector/default.svg)
+![Default illi.ac Logo](https://raw.githubusercontent.com/anthony4tner/illi.ac-logo/main/vector/logo-slogan-icon-left/default-background.svg)
 
 # illi.ac Logo
 
